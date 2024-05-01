@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as c}from"./index-7zrOSOGY.js";const n={},o={src:"https://mint-ui.github.io/#!/zh-cn",height:"100%",width:"100%"};function i(r,s){return c(),e("iframe",o)}const a=t(n,[["render",i]]);export{a as default};

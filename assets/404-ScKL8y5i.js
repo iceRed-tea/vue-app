@@ -1,0 +1,1 @@
+import{_ as c,c as o,o as a,A as _,B as d,C as s}from"./index-7zrOSOGY.js";const p={},t=e=>(_("data-v-0d615e8f"),e=e(),d(),e),n={class:"vueapp404"},r=t(()=>s("h2",{class:"title"},"vueapp",-1)),i=t(()=>s("h1",{class:"title"},"404",-1)),h=[r,i];function l(e,f){return a(),o("div",n,h)}const v=c(p,[["render",l],["__scopeId","data-v-0d615e8f"]]);export{v as default};

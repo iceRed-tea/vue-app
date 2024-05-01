@@ -1,0 +1,1 @@
+import{_ as c,c as e,o as t}from"./index-7zrOSOGY.js";const r={},o={src:" https://react.docschina.org/",height:"100%",width:"100%"};function s(a,n){return t(),e("iframe",o)}const i=c(r,[["render",s]]);export{i as default};

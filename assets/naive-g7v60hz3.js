@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index-7zrOSOGY.js";const o={},s={src:"https://www.naiveui.com/zh-CN/os-theme",height:"100%",width:"100%"};function n(r,a){return c(),t("iframe",s)}const i=e(o,[["render",n]]);export{i as default};

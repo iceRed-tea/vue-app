@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index-7zrOSOGY.js";const s={},a={src:"https://animate.style/",height:"100%",width:"100%"};function n(o,r){return c(),t("iframe",a)}const i=e(s,[["render",n]]);export{i as default};

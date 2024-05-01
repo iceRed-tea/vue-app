@@ -1,0 +1,1 @@
+import{_ as t,c,o as e}from"./index-7zrOSOGY.js";const o={},s={src:"https://cdn.baomitu.com/",height:"100%",width:"100%"};function r(n,_){return e(),c("iframe",s)}const i=t(o,[["render",r]]);export{i as default};

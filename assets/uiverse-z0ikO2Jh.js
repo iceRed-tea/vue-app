@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index-7zrOSOGY.js";const r={},s={src:"https://uiverse.io/",height:"100%",width:"100%"};function o(n,_){return c(),t("iframe",s)}const a=e(r,[["render",o]]);export{a as default};

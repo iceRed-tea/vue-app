@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as c}from"./index-7zrOSOGY.js";const a={},o={src:"http://datav.jiaminghi.com/guide/",height:"100%",width:"100%"};function r(n,s){return c(),e("iframe",o)}const _=t(a,[["render",r]]);export{_ as default};

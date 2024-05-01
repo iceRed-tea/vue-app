@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index-7zrOSOGY.js";const o={},r={src:"https://portal.he3app.com",height:"100%",width:"100%"};function s(a,n){return c(),t("iframe",r)}const p=e(o,[["render",s]]);export{p as default};

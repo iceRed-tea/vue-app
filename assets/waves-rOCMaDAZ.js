@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index-7zrOSOGY.js";const s={},o={src:"https://www.lingdaima.com/svgwave/",height:"100%",width:"100%"};function a(r,n){return c(),t("iframe",o)}const i=e(s,[["render",a]]);export{i as default};

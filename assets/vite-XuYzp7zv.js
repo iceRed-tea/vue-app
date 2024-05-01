@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index-7zrOSOGY.js";const s={},o={src:"https://cn.vitejs.dev/",height:"100%",width:"100%"};function r(n,_){return c(),t("iframe",o)}const i=e(s,[["render",r]]);export{i as default};

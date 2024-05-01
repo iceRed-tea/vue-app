@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index-7zrOSOGY.js";const r={},a={src:"https://www.creative-tim.com/vuematerial",height:"100%",width:"100%"};function o(s,i){return c(),t("iframe",a)}const _=e(r,[["render",o]]);export{_ as default};

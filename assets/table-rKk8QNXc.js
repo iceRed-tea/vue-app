@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index-7zrOSOGY.js";const o={},a={src:"https://www.lingdaima.com/table/",height:"100%",width:"100%"};function r(s,n){return c(),t("iframe",a)}const i=e(o,[["render",r]]);export{i as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./index-7zrOSOGY.js";const r={},c={src:"https://bootstrap-vue.org/",height:"100%",width:"100%"};function s(a,n){return o(),e("iframe",c)}const f=t(r,[["render",s]]);export{f as default};

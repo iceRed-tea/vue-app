@@ -1,0 +1,1 @@
+import{_ as c,c as t,o as e}from"./index-7zrOSOGY.js";const o={},n={src:"https://www.flaticon.com/",height:"100%",width:"100%"};function r(s,_){return e(),t("iframe",n)}const i=c(o,[["render",r]]);export{i as default};

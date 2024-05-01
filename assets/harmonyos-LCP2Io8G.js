@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t}from"./index-7zrOSOGY.js";const c={},r={src:"https://developer.harmonyos.com/",height:"100%",width:"100%"};function s(n,a){return t(),o("iframe",r)}const h=e(c,[["render",s]]);export{h as default};

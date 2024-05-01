@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index-7zrOSOGY.js";const s={},o={src:"https://element-plus.org/zh-CN/",height:"100%",width:"100%"};function r(n,_){return c(),t("iframe",o)}const l=e(s,[["render",r]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index-7zrOSOGY.js";const o={},s={src:"https://vuetifyjs.com/en/",height:"100%",width:"100%"};function r(n,_){return c(),t("iframe",s)}const a=e(o,[["render",r]]);export{a as default};

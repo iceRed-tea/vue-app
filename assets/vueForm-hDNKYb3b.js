@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index-7zrOSOGY.js";const o={},r={src:"https://vueform.com/",height:"100%",width:"100%"};function s(n,_){return c(),t("iframe",r)}const f=e(o,[["render",s]]);export{f as default};

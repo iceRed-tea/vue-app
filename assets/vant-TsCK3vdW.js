@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as c}from"./index-7zrOSOGY.js";const o={},n={src:"https://vant-ui.github.io/vant-weapp/#/home",height:"100%",width:"100%"};function a(r,s){return c(),e("iframe",n)}const i=t(o,[["render",a]]);export{i as default};
